@@ -23,3 +23,4 @@ hollow: {
 ```
 
 ## Final Chart
+![image](https://github.com/leesoyuun/TinyToolkit/assets/51051548/03226fb3-23a9-42e4-b1c1-d166959056c8)
